@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* PrimeReact core styles */
+@import "primereact/resources/themes/lara-light-indigo/theme.css"; /* or any other theme */
+@import "primereact/resources/primereact.min.css";
+
+/* PrimeIcons */
+@import "primeicons/primeicons.css";
+
+
+
+html,body{
+    background-color: #e6dff5;
+}
