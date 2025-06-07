@@ -1,4 +1,10 @@
-# 🏥 Patient Admission Dashboard
+# 🏥 Patient Dashboard
+
+
+
+https://github.com/user-attachments/assets/bf99ffc7-467d-40ee-8de5-161b91d2d4a2
+
+
 
 A responsive and interactive web app to manage and visualize patient data. Built using **React**, **TypeScript**, **Redux Toolkit**, **Tailwind CSS**, **Axios**, and **Recharts**.
 
