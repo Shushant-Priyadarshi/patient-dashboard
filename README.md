@@ -4,6 +4,18 @@ A responsive and interactive web app to manage and visualize patient data. Built
 
 ---
 
+# Important
+
+
+- Api Used : https://dummyjson.com/docs/users
+- As the API does not allow to change data from the server but gives appropriate response
+- Please look at the console when :
+  - Adding Patient : A new patient is created with some id
+  - Updating Patient : A new object is getting in response with updated value 
+  - Deleting Patient : isDeleted attribute gets in response.
+
+
+---
 ## 🚀 Features
 
 - Fetch patient data using a public API
@@ -42,3 +54,5 @@ cd patient-dashboard
 npm i 
 npm run dev 
 ```
+
+
