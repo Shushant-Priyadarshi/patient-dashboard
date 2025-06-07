@@ -3,7 +3,7 @@ const AnalyticsCard = ({
   title,
   data,
 }: {
-  icon: JSX.Element;
+  icon: React.ReactNode;
   title: string;
   data: string;
 }) => (
